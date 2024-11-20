@@ -1,0 +1,13 @@
+sample	knockdown	sgrna1	sgrna2	replicate	treatment
+fluc_1_2_rep1_0h	fluc	1	2	rep1	0h
+fluc_1_2_rep1_6h	fluc	1	2	rep1	6h
+fluc_1_2_rep2_0h	fluc	1	2	rep2	0h
+fluc_1_2_rep2_6h	fluc	1	2	rep2	6h
+gcn1_1_2_rep1_0h	gcn1	1	2	rep1	0h
+gcn1_1_2_rep1_6h	gcn1	1	2	rep1	6h
+gcn1_1_2_rep2_0h	gcn1	1	2	rep2	0h
+gcn1_1_2_rep2_6h	gcn1	1	2	rep2	6h
+gcn1_3_4_rep1_0h	gcn1	3	4	rep1	0h
+gcn1_3_4_rep1_6h	gcn1	3	4	rep1	6h
+gcn1_3_4_rep2_0h	gcn1	3	4	rep2	0h
+gcn1_3_4_rep2_6h	gcn1	3	4	rep2	6h
